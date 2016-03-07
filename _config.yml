@@ -1,6 +1,6 @@
 name: holgerstorm
 favicon: null
-layout_spectrum: 0.9499635517131537
+layout_spectrum: 0.55469
 typography_spectrum: 0.6656708149239421
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.9554362944327295
+  brandStrength: 0.875
   lightness: 0.7411234469618648
   saturation: 0.7409081638325006
   rhythmicContrast: 0.7776335494127125
