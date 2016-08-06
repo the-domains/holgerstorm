@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: holgerstorm
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.08297873
 color:
   saturation: 0.4829787
   brandStrength: 1
-  lightness: 0.8212766
+  rhythmicContrast: 0.287234
   brandColors:
     - '#ebeffa'
     - '#cfc2c9'
     - '#2d414a'
     - '#66737c'
     - '#aa9b9e'
-  rhythmicContrast: 0.287234
-typography_spectrum: 0.8638298
+  lightness: 0.8212766
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.08297873
 favicon: null
-name: holgerstorm
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+typography_spectrum: 0.8638298
