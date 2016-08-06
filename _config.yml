@@ -1,28 +1,40 @@
-name: holgerstorm
-favicon: null
-layout_spectrum: 0.55469
-typography_spectrum: 0.80587
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4829787
+  brandStrength: 1
+  lightness: 0.8212766
   brandColors:
     - '#ebeffa'
     - '#cfc2c9'
     - '#2d414a'
     - '#66737c'
     - '#aa9b9e'
-  brandStrength: 0.6875
-  lightness: 0.6875
-  saturation: 1
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.287234
+typography_spectrum: 0.8638298
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.08297873
+favicon: null
+name: holgerstorm
